@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MUHAMMED MOSHOOD</title>
+</head>
+
+<body>
+
+<center>
+
+<h2>Welcome aboard</h2>
+
+<p>Hello. This is a simple web page, with a link to <a href=
+"https://moshoodmuhammed.wordpress.com/" target="_blank">My Old Blog</a>.</p>
+
+<img width="160" height ="115" src="images/moshoodimage.jpg">
+
+<p>Here is a video you might like</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9DpejbEJ5Gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>This is my second test design. My name remains <b>Moshood</b>, 
+<i>the symbol of hope</i>.</p>
+
+<p>Here, you can find my university's 
+<a href="https://westminster.ac.uk">website</a>.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.5143089172793!2d-0.15677608469106216!3d51.522126017448024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ad51b1e1cf9%3A0x7d4455784eb885c7!2sUniversity%20of%20Westminster!5e0!3m2!1sen!2suk!4v1620870865044!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+</center>
+</body>
+</html>
